@@ -1,4 +1,4 @@
-﻿body {
+body {
     background-color: #001f3f;
     color: white;
 }
@@ -13,34 +13,34 @@
     margin: 0 auto; 
 }
 
-#pic1{
+#pic1 {
     width: 30%;
     height: 25%;
-    padding-top: 7rem;
-    padding-left: 2rem;
+    padding-top: 10%;
+    padding-left: 5%;
     visibility: hidden;
 }
 
-#picdes{
+#picdes {
     font-size: 1vw;
-    max-width: 12rem;
-    padding-top: 10rem;
-    padding-left: 15rem;
+    max-width: 20vw;
+    padding-top: 14%;
+    padding-left: 20%;
     float: left;
 }
 
-#pic2{
+#picture{
     width: 40%;
     height: 35%;
     padding-left: 100px;
     padding-top: 150px;
 }
 
-#picdes2{
+#picdes2 {
     font-size: 1vw;
-    max-width: 12rem;
-    padding-top: 2rem;
-    padding-left: 15rem;
+    max-width: 19vw;
+    padding-top: 0px;
+    padding-left: 20%;
     float: left;
 }
 
@@ -57,7 +57,7 @@ a{
 }
 
 .content {
-    height: 20rem;
+    height: 36rem;
     display: flex;
     align-items: center;
     justify-content: center;
